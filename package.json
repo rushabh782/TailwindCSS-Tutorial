@@ -9,11 +9,5 @@
   },
   "dependencies": {
     "vite": "^5.2.11"
-  },
-  "name": "tailwind-css",
-  "version": "1.0.0",
-  "main": "tailwind.config.js",
-  "author": "",
-  "license": "ISC",
-  "description": ""
+  }
 }
